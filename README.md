@@ -19,7 +19,7 @@ In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. I
 > "See problem. Solve problem. Grow."  
 > -- Aastha Gaur
 
-Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "aus Fehlern lernt man", nur dass die Lösung der Fehler inkludiert ist und das Lernen explizit auch Wachstum bedeutet.
+Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "*aus Fehlern lernt man*", nur dass die Lösung der Fehler inkludiert ist und das Lernen explizit auch Wachstum bedeutet.
 
 ## Kontakt
 
