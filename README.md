@@ -17,20 +17,20 @@ Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten &
 
 Meine Arbeit ist geprägt von **Multidiszilinarität** und von starkem Fokus auf ein **Web für Alle**. Dies spiegelt sich selbstverständlich in meinen Fähigkeiten & auch meinen privaten Interessen wieder.
 
-### Mission
+### `Mission`
 
 Meine Mission ist **information. education. empowerment.**
 
 In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. Ich gebe genauso auch *Anleitungen* und sorge dafür, dass Kund*innen *selbstbestimmt und selbstbewusst* die Pflege ihrer Digitalauftritte im Griff haben und zum barrierefreien Internet ihren Beitrag leisten können.
 
-### Motto
+### `Motto`
 
 > "See problem. Solve problem. Grow."  
 > -- Aastha Gaur
 
 Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "*aus Fehlern lernt man*", nur dass die Lösung der Fehler inkludiert ist, und dass Lernen explizit auch Wachstum bedeutet.
 
-### Kontakt
+### `Kontakt`
 
 Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon (und dort [den Server des digitalcourage e. V.](https://digitalcourage.social/@wohfab)) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client Deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
 
@@ -38,7 +38,7 @@ Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen
 <a href="https://digitalcourage.social/@wohfab"><img src="https://img.shields.io/badge/-@wohfab@digitalcourage.social-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Mastodon&amp;link=https://digitalcourage.social/@wohfab" alt="Mastodon Badge"></a>
 <a href="https://matrix.to/#/@wohfab:beeper.com"><img src="https://img.shields.io/badge/-@wohfab:beeper.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Matrix&amp;link=https://matrix.to/#/@wohfab:beeper.com" alt="Matrix Badge"></a>
 
-### Skills
+### `Skills`
 
 Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience**. Dieses multidisziplinäre Feld erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
 
@@ -49,7 +49,7 @@ Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience*
 ☁️ Self-Hosting  
 📸 Photographie  
 
-### Themen
+### `Themen`
 
 Nicht nur in meiner Arbeit findet sich das Thema **(Web) für Alle**. Auch privat setze ich mich, gemäß meiner Mission **information. education. empowerment.** für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
 
@@ -57,7 +57,7 @@ Nicht nur in meiner Arbeit findet sich das Thema **(Web) für Alle**. Auch priva
 🗺️ Diversität (Diversity)  
 🏳️‍🌈 Allyship für LGBTQ+
 
-### Interessen
+### `Interessen`
 
 Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner Interessen fließen auch direkt tagtäglich in die Arbeit ein, andere vermitteln und fördern besondere Mindsets, die sich indirekt auf meine Arbeit auswirken. Besonderen Gefallen habe ich an
 
