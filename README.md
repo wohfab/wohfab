@@ -49,7 +49,7 @@ Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience*
 
 Nicht nur in meiner Arbeit findet sich das Thema **(Web) für Alle**. Auch privat setze ich mich, gemäß meiner Mission **information. education. empowerment.** für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
 
-♿ Inklusion, Barrierefreiheit (Accessibility - #a11y)  
+♿ Inklusion, Barrierefreiheit (Accessibility - a11y)  
 🗺️ Diversität (Diversity)  
 🏳️‍🌈 Allyship für LGBTQ+
 
