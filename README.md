@@ -2,4 +2,4 @@ Ich bin als **Inklusiver Designer** und **UX Consultant** im Auftrag eines **Web
 
 In meiner Arbeit fokussiere ich mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen.
 
-<a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/static/v1?label=Audit oder Consulting anfragen&message=hi@feynmatt.com&color=hotpink?style=plastic&logo=protonmail" /></a>
+<a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/static/v1?label=Audit oder Consulting anfragen&message=hi@feynmatt.com&color=pink?style=plastic&logo=protonmail" /></a>
