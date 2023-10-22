@@ -1,3 +1,9 @@
+<style>
+  #user-profile-frame .markdown-body strong {
+    color: hotpink;
+  }
+</style>
+
 Ich bin als **Inklusiver Designer** und **UX Consultant** im Auftrag eines **Web für Alle** unterwegs. Dabei arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten*.
 
 In meiner Arbeit fokussiere ich mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen.
