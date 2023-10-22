@@ -8,7 +8,9 @@ In einem Web für Alle spielt es keine Rolle, wer Du bist, wo Du bist & was Dein
 
 Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten* und fokussiere mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
 
-## Meine Mission - information. education. empowerment.
+## MISSION
+
+##* Meine Mission - information. education. empowerment.
 
 In meiner Consulting-Tätigkeit verbreite ich nicht immer nur Informationen. Ich gebe genauso auch Anleitungen und sorge dafür, dass Kund*innen selbstbestimmt und selbstbewusst die Pflege ihrer Digitalauftritte im Griff haben.
 
