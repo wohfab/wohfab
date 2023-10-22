@@ -4,6 +4,6 @@ In meiner Arbeit fokussiere ich mich neben *Open Source Software* und *Nachhalti
 
 ## Kontakt
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/wohfab@digitalcourage.social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/%40wohfab?domain=digitalcourage.social&style=social&logo=mastodon&logoColor=white&label=MASTODON&labelColor=black&color=white&link=https%3A%2F%2Fdigitalcourage.social%2F%40wohfab)
 
 <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/static/v1?label=Audit oder Consulting anfragen&message=hi@feynmatt.com&color=pink?style=plastic&logo=protonmail" /></a>
