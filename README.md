@@ -45,7 +45,8 @@ Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience*
 🎨 Design  
 🛠️ Tool Consulting  
 🧑‍💻 Webentwicklung  
-🖥️ Serveradministration & Self-Hosting
+🖥️ Serveradministration  
+☁️ Self-Hosting  
 📸 Photographie  
 
 ### Themen
@@ -64,5 +65,6 @@ Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner I
 🎙️ Singen (Tenor)  
 🎷 Saxophon (ebenfalls Tenor)  
 📸 Photographie  
+☁️ Self-Hosting  
 🎨 Design  
-⚜️ Pfadfinderei  
+⚜️ Pfadfinder, Scouts  
