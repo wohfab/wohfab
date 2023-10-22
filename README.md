@@ -2,9 +2,10 @@
 
 Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und im Auftrag eines **Web für Alle** unterwegs.
 
-<a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>
+<a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-Mail%20an%20hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>
 <a href="https://feynmatt.com"><img src="https://img.shields.io/badge/-feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Firefox&amp;link=https://feynmatt.com" alt="Website Badge"></a>
-<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>
+
+<!--<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>-->
 
 ## `Web für Alle`
 
