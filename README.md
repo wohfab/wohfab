@@ -4,13 +4,15 @@ Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und i
 
 <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>
 <a href="https://feynmatt.com"><img src="https://img.shields.io/badge/-feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Firefox&amp;link=https://feynmatt.com" alt="Website Badge"></a>
-<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a> 
+<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>
 
 ## Web für Alle
 
 In einem Web für Alle spielt es keine Rolle, wer Du bist, wo Du bist & was Deine Erfahrungen oder Fähigkeiten im Web sind. Ein Digitalauftritt sollte allen Menschen gleichermaßen zugänglich sein.
 
 Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten* und fokussiere mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
+
+## About Me - `Über mich`
 
 ## Mission
 
@@ -35,3 +37,10 @@ Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen
 
 ## Skills
 
+Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience**. Dieses multidisziplinäre Feld erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
+
+🎨 Design  
+🛠️ Tool Consulting  
+🧑‍💻 Webentwicklung  
+🖥️ Serveradministration & Self-Hosting
+📸 Photographie  
