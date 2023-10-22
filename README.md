@@ -7,7 +7,7 @@ Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und i
 
 <!--<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>-->
 
-<img aria-hidden="true" src="assets/img/hr.svg" />
+<img aria-hidden="true" src="assets/img/hr.svg" height="20px" />
 
 ## `Web für Alle`
 
