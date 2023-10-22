@@ -21,7 +21,7 @@ Meine Arbeit ist geprägt von **Multidiszilinarität** und von starkem Fokus auf
 
 Meine Mission ist **information. education. empowerment.**
 
-In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. Ich gebe genauso auch *Anleitungen* und sorge dafür, dass Kund*innen *selbstbestimmt und selbstbewusst* die Pflege ihrer Digitalauftritte im Griff haben.
+In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. Ich gebe genauso auch *Anleitungen* und sorge dafür, dass Kund*innen *selbstbestimmt und selbstbewusst* die Pflege ihrer Digitalauftritte im Griff haben und zum barrierefreien Internet ihren Beitrag leisten können.
 
 ### Motto
 
