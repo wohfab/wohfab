@@ -16,9 +16,6 @@
     font-family: monospace;
     font-size: 2rem;
   }
-  .business {
-    font-weight: bold;
-  }
 </style>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title"><span class="business">feynmatt</span> by fabian wohlgemuth</text>    
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title">feynmatt by fabian wohlgemuth</text>    
 </svg>
