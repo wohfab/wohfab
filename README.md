@@ -10,7 +10,7 @@ Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten &
 
 ## MISSION
 
-##* Meine Mission - information. education. empowerment.
+*## Meine Mission - information. education. empowerment.
 
 In meiner Consulting-Tätigkeit verbreite ich nicht immer nur Informationen. Ich gebe genauso auch Anleitungen und sorge dafür, dass Kund*innen selbstbestimmt und selbstbewusst die Pflege ihrer Digitalauftritte im Griff haben.
 
