@@ -23,5 +23,5 @@
   }
 </style>
   <text x="20%" y="50%" dominant-baseline="middle" text-anchor="middle" class="business">feynmatt <span>by fabian wohlgemuth</span></text>    
-  <text x="60%" y="50%" dominant-baseline="middle" text-anchor="middle" class="name"><span>feynmatt</span> by fabian wohlgemuth</text>    
+  <text x="70%" y="50%" dominant-baseline="middle" text-anchor="middle" class="name"><span>feynmatt</span> by fabian wohlgemuth</text>    
 </svg>
