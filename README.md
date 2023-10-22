@@ -1,9 +1,23 @@
+# Inclusive UX Consulting
 
+Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und im Auftrag eines **Web für Alle** unterwegs.
 
-Ich bin als **Inklusiver Designer** und **UX Consultant** im Auftrag eines **Web für Alle** unterwegs. Dabei arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten*.
+## Ein Web für Alle
 
-In meiner Arbeit fokussiere ich mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen.
+In einem Web für Alle spielt es keine Rolle, wer Du bist, wo Du bist & was Deine Erfahrungen oder Fähigkeiten im Web sind. Ein Digitalauftritt sollte allen Menschen gleichermaßen zugänglich sein.
 
-## Kontakt
+Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten* und fokussiere mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
+
+## Meine Mission - information. education. empowerment.
+
+In meiner Consulting-Tätigkeit verbreite ich nicht immer nur Informationen. Ich gebe genauso auch Anleitungen und sorge dafür, dass Kund*innen selbstbestimmt und selbstbewusst die Pflege ihrer Digitalauftritte im Griff haben.
+
+## Mein Motto - "See problem. Solve problem. Grow."
+
+Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "aus Fehlern lernt man", nur dass die Lösung der Fehler inkludiert ist und das Lernen explizit auch Wachstum bedeutet.
+
+## Schreib mir
+
+Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon (und dort den Server des digitalcourage e. V.) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den Matrix Client Deiner Wahl erreichbar.
 
 <a href="mailto:hi@feynmatt.com"><img alt="Static Badge" src="https://img.shields.io/badge/hi%40feynmatt.com-_?style=for-the-badge&logo=protonmail&logoColor=white&label=Email&color=%239F9F9F"></a> <a href="https://digitalcourage.social/@wohfab"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/000069426?domain=https%3A%2F%2Fdigitalcourage.social&style=for-the-badge&logo=mastodon&logoColor=white&label=Mastodon&color=%239F9F9F"></a> <a href="https://matrix.to/#/@wohfab:beeper.com"><img alt="Matrix Chat" src="https://img.shields.io/matrix/feynmatt.media%3Amatrix.org?style=for-the-badge&logo=matrix&logoColor=white&label=Matrix&color=%239F9F9F"></a>
