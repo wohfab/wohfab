@@ -2,23 +2,26 @@
 
 Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und im Auftrag eines **Web für Alle** unterwegs.
 
-## Ein Web für Alle
+## Web für Alle
 
 In einem Web für Alle spielt es keine Rolle, wer Du bist, wo Du bist & was Deine Erfahrungen oder Fähigkeiten im Web sind. Ein Digitalauftritt sollte allen Menschen gleichermaßen zugänglich sein.
 
 Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten* und fokussiere mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
 
-## MISSION
+## Mission
 
-*## Meine Mission - information. education. empowerment.
+information. education. empowerment.
 
 In meiner Consulting-Tätigkeit verbreite ich nicht immer nur Informationen. Ich gebe genauso auch Anleitungen und sorge dafür, dass Kund*innen selbstbestimmt und selbstbewusst die Pflege ihrer Digitalauftritte im Griff haben.
 
-## Mein Motto - "See problem. Solve problem. Grow."
+## Motto
+
+> "See problem. Solve problem. Grow."
+> -- Aastha Gaur
 
 Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "aus Fehlern lernt man", nur dass die Lösung der Fehler inkludiert ist und das Lernen explizit auch Wachstum bedeutet.
 
-## Schreib mir
+## Kontakt
 
 Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon (und dort den Server des digitalcourage e. V.) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den Matrix Client Deiner Wahl erreichbar.
 
