@@ -4,7 +4,7 @@ Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und i
 
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 
-<a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-mail%20an%20hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>  
+<a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>  
 <a href="https://feynmatt.com"><img src="https://img.shields.io/badge/-feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Firefox&amp;link=https://feynmatt.com" alt="Website Badge"></a>
 
 <!--<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>-->
