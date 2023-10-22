@@ -4,4 +4,4 @@ Ich bin als **Inklusiver Designer** und **UX Consultant** im Auftrag eines **Web
 
 In meiner Arbeit fokussiere ich mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wohfab&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/wohfab?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
