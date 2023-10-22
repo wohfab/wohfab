@@ -15,7 +15,7 @@
   .title {
     font-family: monospace;
     font-weight: boldest;
-    font-size: 3rem;
+    font-size: 2rem;
   }
 </style>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title">feynmatt by fabian wohlgemuth</text>    
