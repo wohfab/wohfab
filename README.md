@@ -1,4 +1,4 @@
-# `Inclusive UX Consulting`
+# `Inclusive UX Consulting` - Ein Web für Alle
 
 Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und im Auftrag eines **Web für Alle** unterwegs.
 
