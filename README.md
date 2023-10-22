@@ -34,7 +34,15 @@ Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht m
 
 Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon (und dort [den Server des digitalcourage e. V.](https://digitalcourage.social/@wohfab)) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client Deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
 
-<a href="mailto:hi@feynmatt.com"><img alt="Static Badge" src="https://img.shields.io/badge/hi%40feynmatt.com-_?style=for-the-badge&logo=protonmail&logoColor=white&label=Email&color=%239F9F9F"></a> <a href="https://digitalcourage.social/@wohfab"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/000069426?domain=https%3A%2F%2Fdigitalcourage.social&style=for-the-badge&logo=mastodon&logoColor=white&label=Mastodon&color=%239F9F9F"></a> <a href="https://matrix.to/#/@wohfab:beeper.com"><img alt="Matrix Chat" src="https://img.shields.io/matrix/feynmatt.media%3Amatrix.org?style=for-the-badge&logo=matrix&logoColor=white&label=Matrix&color=%239F9F9F"></a>
+<a href="mailto:hi@feynmatt.com">
+<img src="https://img.shields.io/badge/-mail%20an%20hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge">
+</a>
+<a href="https://digitalcourage.social/@wohfab">
+<img src="https://img.shields.io/badge/-@wohfab@digitalcourage.social-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Mastodon&amp;link=https://digitalcourage.social/@wohfab" alt="Mastodon Badge">
+</a>
+<a href="https://matrix.to/#/@wohfab:beeper.com">
+<img src="https://img.shields.io/badge/-@wohfab:beeper.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Matrix&amp;link=https://matrix.to/#/@wohfab:beeper.com" alt="Matrix Badge">
+</a>
 
 ### Skills
 
