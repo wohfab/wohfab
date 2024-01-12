@@ -13,7 +13,7 @@ Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und i
 
 ## `Web für Alle`
 
-In einem Web für Alle spielt es keine Rolle, wer Du bist, wo Du bist & was Deine Erfahrungen oder Fähigkeiten im Web sind. Ein Digitalauftritt sollte allen Menschen gleichermaßen zugänglich sein.
+In einem Web für Alle spielt es keine Rolle, wer du bist, wo du bist & was deine Erfahrungen oder Fähigkeiten im Web sind. Ein Digitalauftritt sollte allen Menschen gleichermaßen zugänglich sein.
 
 Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten* und fokussiere mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
 
@@ -44,7 +44,7 @@ Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht m
 
 ### `Kontakt`
 
-Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon (und dort [den Server des digitalcourage e. V.](https://digitalcourage.social/@wohfab)) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client Deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
+Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon (und dort [den Server des digitalcourage e. V.](https://digitalcourage.social/@wohfab)) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
 
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 
