@@ -21,7 +21,7 @@ Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten &
 
 ## `Über mich`
 
-Meine Arbeit ist geprägt von **Multidiszilinarität** und von starkem Fokus auf ein **Web für Alle**. Dies spiegelt sich selbstverständlich in meinen Fähigkeiten & auch meinen privaten Interessen wieder.
+Meine Arbeit ist geprägt von **Multidisziplinarität** und von starkem Fokus auf ein **Web für Alle**. Dies spiegelt sich selbstverständlich in meinen Fähigkeiten & auch meinen privaten Interessen wieder.
 
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 
