@@ -44,7 +44,7 @@ Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht m
 
 ### `Kontakt`
 
-Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon (und dort [den Server des digitalcourage e. V.](https://digitalcourage.social/@wohfab)) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
+Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich [Mastodon](https://digitalcourage.social/@wohfab) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
 
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 
