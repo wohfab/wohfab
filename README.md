@@ -2,14 +2,18 @@
 
 Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und im Auftrag eines **Web für Alle** unterwegs.
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>  
 <a href="https://feynmatt.com"><img src="https://img.shields.io/badge/-feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Firefox&amp;link=https://feynmatt.com" alt="Website Badge"></a>
 
 <!--<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>-->
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ## `Web für Alle`
 
@@ -17,13 +21,17 @@ In einem Web für Alle spielt es keine Rolle, wer du bist, wo du bist & was dein
 
 Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten* und fokussiere mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ## `Über mich`
 
 Meine Arbeit ist geprägt von **Multidisziplinarität** und von starkem Fokus auf ein **Web für Alle**. Dies spiegelt sich selbstverständlich in meinen Fähigkeiten & auch meinen privaten Interessen wieder.
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ### `Mission`
 
@@ -31,7 +39,9 @@ Meine Mission ist **information. education. empowerment.**
 
 In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. Ich gebe genauso auch *Anleitungen* und sorge dafür, dass Kund*innen *selbstbestimmt und selbstbewusst* die Pflege ihrer Digitalauftritte im Griff haben und zum barrierefreien Internet ihren Beitrag leisten können.
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ### `Motto`
 
@@ -40,19 +50,25 @@ In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. I
 
 Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "*aus Fehlern lernt man*", nur dass die Lösung der Fehler inkludiert ist, und dass Lernen explizit auch Wachstum bedeutet.
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ### `Kontakt`
 
 Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich [Mastodon](https://digitalcourage.social/@wohfab) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>  
 <a href="https://digitalcourage.social/@wohfab"><img src="https://img.shields.io/badge/-@wohfab@digitalcourage.social-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Mastodon&amp;link=https://digitalcourage.social/@wohfab" alt="Mastodon Badge"></a>  
 <a href="https://matrix.to/#/@wohfab:beeper.com"><img src="https://img.shields.io/badge/-@wohfab:beeper.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Matrix&amp;link=https://matrix.to/#/@wohfab:beeper.com" alt="Matrix Badge"></a>
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ### `Skills`
 
@@ -65,7 +81,9 @@ Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience*
 ☁️ Self-Hosting  
 📸 Photographie  
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ### `Themen`
 
@@ -75,7 +93,9 @@ Nicht nur in meiner Arbeit findet sich das Thema **(Web) für Alle**. Auch priva
 🗺️ Diversität (Diversity)  
 🏳️‍🌈 Allyship für LGBTQ+
 
+<picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
+</picture>
 
 ### `Interessen`
 
