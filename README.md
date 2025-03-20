@@ -1,9 +1,9 @@
-<div bla>div</div>
-<span bla>span</span>
-<section bla disabled open>section</section>
-<p bla>p</p>
-<a bla>barbarbarbar</a>
-<article bla>article</article>
+<div aria-label
+     aria-labelledby
+     aria-describedby
+     open
+     disabled>FANCY DIV
+</div>
 
 <section lang="de">
 
