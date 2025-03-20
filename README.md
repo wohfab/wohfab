@@ -2,6 +2,9 @@
 <span bla="bla">span</span>
 <section bla="bla">section</section>
 <p bla="bla">p</p>
+
+<a foo="bar">barbarbarbar</a>
+
 <article bla="bla">article</article>
 
 <section lang="de">
