@@ -9,7 +9,7 @@
 </picture>
 
 - [![E-Mail an Protonmail-Adresse hi@feynmatt.com](https://custom-icon-badges.demolab.com/badge/hi%40feynmatt.com-041A29?logo=protonmail&logoColor=EC4899)](mailto:hi@feynmatt.com)
-- [![Meine Website auf feynmatt.com](https://custom-icon-badges.demolab.com/badge/feynmatt.com-EC4899?logo=Firefox&logoColor=EC4899)](https://feynmatt.com)
+- [![Meine Website auf feynmatt.com](https://custom-icon-badges.demolab.com/badge/feynmatt.com-041A29?logo=Firefox&logoColor=EC4899)](https://feynmatt.com)
 - [![Fabian Wohlgemuth auf LinkedIn](https://custom-icon-badges.demolab.com/badge/%40fabianwohlgemuth-041A29?logo=linkedin-white&logoColor=EC4899)](https://www.linkedin.com/in/fabianwohlgemuth/)
 
 <picture>
