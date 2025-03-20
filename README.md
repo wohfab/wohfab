@@ -1,8 +1,8 @@
-# `Inclusive UX Consulting` - Ein Web für Alle
+# `Inclusive UX Consulting` - Ein Web für Alle!
 
-Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und im Auftrag eines **Web für Alle** unterwegs.
+Hej, ich bin Fabian! Ich bin **Berater für digitale Barrierefreiheit**, **inklusiver Designer** und **UX Consultant** und im Auftrag eines **Web für Alle** unterwegs.
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
@@ -11,7 +11,7 @@ Hej, ich bin Fabian! Ich bin **Inklusiver Designer** und **UX Consultant** und i
 
 <!--<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>-->
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
@@ -21,7 +21,7 @@ In einem Web für Alle spielt es keine Rolle, wer du bist, wo du bist & was dein
 
 Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten & nutzungsfreundlichen Digitalauftritten* und fokussiere mich neben *Open Source Software* und *Nachhaltigkeitsaspekten* besonders auf *Diversitäts*- und *Barrierefreiheits*-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
@@ -29,7 +29,7 @@ Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an *performanten &
 
 Meine Arbeit ist geprägt von **Multidisziplinarität** und von starkem Fokus auf ein **Web für Alle**. Dies spiegelt sich selbstverständlich in meinen Fähigkeiten & auch meinen privaten Interessen wieder.
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
@@ -39,7 +39,7 @@ Meine Mission ist **information. education. empowerment.**
 
 In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. Ich gebe genauso auch *Anleitungen* und sorge dafür, dass Kund*innen *selbstbestimmt und selbstbewusst* die Pflege ihrer Digitalauftritte im Griff haben und zum barrierefreien Internet ihren Beitrag leisten können.
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
@@ -50,38 +50,38 @@ In meiner Consulting-Tätigkeit verbreite ich nicht immer nur *Informationen*. I
 
 Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "*aus Fehlern lernt man*", nur dass die Lösung der Fehler inkludiert ist, und dass Lernen explizit auch Wachstum bedeutet.
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
 ### `Kontakt`
 
-Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich [Mastodon](https://digitalcourage.social/@wohfab) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
+Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich [Mastodon](https://mastodon.social/@wohfab) empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über den [Matrix Client deiner Wahl](https://matrix.to/#/@wohfab:beeper.com) erreichbar.
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
 <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>  
-<a href="https://digitalcourage.social/@wohfab"><img src="https://img.shields.io/badge/-@wohfab@digitalcourage.social-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Mastodon&amp;link=https://digitalcourage.social/@wohfab" alt="Mastodon Badge"></a>  
+<a href="https://mastodon.social/@wohfab"><img src="https://img.shields.io/badge/-@wohfab@mastodon.social-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Mastodon&amp;link=https://mastodon.social/@wohfab" alt="Mastodon Badge"></a>  
 <a href="https://matrix.to/#/@wohfab:beeper.com"><img src="https://img.shields.io/badge/-@wohfab:beeper.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Matrix&amp;link=https://matrix.to/#/@wohfab:beeper.com" alt="Matrix Badge"></a>
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
 ### `Skills`
 
-Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience**. Dieses multidisziplinäre Feld erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
+Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience**. Dieses multidisziplinäre Feld über den gesamten Lifecycle von digitalen Projekten und Produkten hinweg abzubilden, erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
 
-🎨 Design  
-🛠️ Tool Consulting  
-🧑‍💻 Webentwicklung  
-🖥️ Serveradministration  
-☁️ Self-Hosting  
-📸 Photographie  
+* <span aria-hidden="true">🎨</span> Design  
+* <span aria-hidden="true">🛠️</span> Tool Consulting  
+* <span aria-hidden="true">🧑‍💻</span> Webentwicklung  
+* <span aria-hidden="true">🖥️</span> Serveradministration  
+* <span aria-hidden="true">☁️</span> Self-Hosting  
+* <span aria-hidden="true">📸</span> Photographie  
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
@@ -89,11 +89,11 @@ Meine Haupttätigkeit ist das Consulting im Bereich **Inclusive User Experience*
 
 Nicht nur in meiner Arbeit findet sich das Thema **(Web) für Alle**. Auch privat setze ich mich, gemäß meiner Mission **information. education. empowerment.** für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
 
-♿ Inklusion, Barrierefreiheit (Accessibility - a11y)  
-🗺️ Diversität (Diversity)  
-🏳️‍🌈 Allyship für LGBTQ+
+* <span aria-hidden="true">♿</span> Inklusion, Barrierefreiheit (Accessibility - a11y)  
+* <span aria-hidden="true">🗺️</span> Diversität (Diversity)  
+* <span aria-hidden="true">🏳️‍🌈</span> Allyship für LGBTQ+
 
-<picture>
+<picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
@@ -101,10 +101,10 @@ Nicht nur in meiner Arbeit findet sich das Thema **(Web) für Alle**. Auch priva
 
 Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner Interessen fließen auch direkt tagtäglich in die Arbeit ein, andere vermitteln und fördern besondere Mindsets, die sich indirekt auf meine Arbeit auswirken. Besonderen Gefallen habe ich an
 
-🎵 Musik  
-🎙️ Singen (Tenor)  
-🎷 Saxophon (ebenfalls Tenor)  
-📸 Photographie  
-☁️ Self-Hosting  
-🎨 Design  
-⚜️ Pfadfinder, Scouts  
+* <span aria-hidden="true">🎵</span> Musik  
+* <span aria-hidden="true">🎙️</span> Singen (Tenor)  
+* <span aria-hidden="true">🎷</span> Saxophon (ebenfalls Tenor)  
+* <span aria-hidden="true">📸</span> Photographie  
+* <span aria-hidden="true">☁️</span> Self-Hosting  
+* <span aria-hidden="true">🎨</span> Design  
+* <span aria-hidden="true">⚜️</span> Pfadfinder, Scouts  
