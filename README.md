@@ -82,10 +82,10 @@ Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Ver
 Meine Haupttätigkeit ist die Beratung im Bereich <span lang="en">"Inclusive User Experience"</span>, was bedeutet, eine rundum inklusive Nutzungserfahrung zu ermöglichen. Dabei beginnt die Arbeit ganz im Sinne des <span lang="en">"shift left"</span> Gedankens bereits bei Struktur und Konzept und geht dann über Design, bis hin zur technischen Umsetzung. Dazu kommt das Testen vorhandener Angebote nach entsprechenden Richtlinien und gesetzlichen Vorgaben. Dieses multidisziplinäre Feld über den gesamten <span lang="en">Lifecycle</span> von digitalen Projekten und Produkten hinweg abzubilden, erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
 
 * <span role="image" alt="" aria-hidden="true">🎨</span> Design  
-* <span role="image" alt="" aria-hidden="true">🛠️</span> <span lang="de"></span><span lang="en">Tool Consulting</span>  
+* <span role="image" alt="" aria-hidden="true">🛠️</span> <span lang="de">&nbsp;</span><span lang="en">Tool Consulting</span>  
 * <span role="image" alt="" aria-hidden="true">🧑‍💻</span> Webentwicklung  
 * <span role="image" alt="" aria-hidden="true">🖥️</span> Serveradministration  
-* <span role="image" alt="" aria-hidden="true">☁️</span> <span lang="de"></span><span lang="en">Self-Hosting</span>  
+* <span role="image" alt="" aria-hidden="true">☁️</span> <span lang="de">&nbsp;</span><span lang="en">Self-Hosting</span>  
 * <span role="image" alt="" aria-hidden="true">📸</span> Photographie  
 
 <picture>
@@ -96,9 +96,9 @@ Meine Haupttätigkeit ist die Beratung im Bereich <span lang="en">"Inclusive Use
 
 Nicht nur in meiner Arbeit findet sich das Thema "(Web) für Alle". Auch privat setze ich mich, gemäß meiner Mission <span lang="en">information. education. empowerment.</span> für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
 
-* <span role="image" alt="" aria-hidden="true">♿</span> Inklusion und Barrierefreiheit <span lang="de"></span><span lang="en">(Accessibility - a11y)</span>  
-* <span role="image" alt="" aria-hidden="true">🗺️</span> Diversität <span lang="de"></span><span lang="en">(Diversity)</span>  
-* <span role="image" alt="" aria-hidden="true">🏳️‍🌈</span> <span lang="de"></span><span lang="en">Allyship für LGBTQ+</span>
+* <span role="image" alt="" aria-hidden="true">♿</span> Inklusion und Barrierefreiheit <span lang="de">&nbsp;</span><span lang="en">(Accessibility - a11y)</span>  
+* <span role="image" alt="" aria-hidden="true">🗺️</span> Diversität <span lang="de">&nbsp;</span><span lang="en">(Diversity)</span>  
+* <span role="image" alt="" aria-hidden="true">🏳️‍🌈</span> <span lang="de">&nbsp;</span><span lang="en">Allyship für LGBTQ+</span>
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
@@ -112,9 +112,9 @@ Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner I
 * <span role="image" alt="" aria-hidden="true">🎙️</span> Singen (Tenor)  
 * <span role="image" alt="" aria-hidden="true">🎷</span> Saxophon (ebenfalls Tenor) und vielen weiteren Instrumenten  
 * <span role="image" alt="" aria-hidden="true">📸</span> Photographie  
-* <span role="image" alt="" aria-hidden="true">☁️</span> <span lang="de"></span><span lang="en">Self-Hosting</span>  
+* <span role="image" alt="" aria-hidden="true">☁️</span> <span lang="de">&nbsp;</span><span lang="en">Self-Hosting</span>  
 * <span role="image" alt="" aria-hidden="true">🎨</span> Design  
-* <span role="image" alt="" aria-hidden="true">⚜️</span> Pfadfinder, <span lang="de"></span><span lang="en">Scouts</span>  
+* <span role="image" alt="" aria-hidden="true">⚜️</span> Pfadfinder, <span lang="de">&nbsp;</span><span lang="en">Scouts</span>  
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
