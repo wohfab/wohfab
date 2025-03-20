@@ -1,11 +1,9 @@
-<div bla="bla">div</div>
-<span bla="bla">span</span>
-<section bla="bla">section</section>
-<p bla="bla">p</p>
-
-<a foo="bar">barbarbarbar</a>
-
-<article bla="bla">article</article>
+<div bla>div</div>
+<span bla>span</span>
+<section bla disabled open>section</section>
+<p bla>p</p>
+<a bla>barbarbarbar</a>
+<article bla>article</article>
 
 <section lang="de">
 
