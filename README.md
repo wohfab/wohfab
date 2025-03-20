@@ -1,8 +1,8 @@
-<div bla="true">div</div>
-<span bla="true">span</span>
-<section bla="true">section</section>
-<p bla="true">p</p>
-<article bla="true">article</article>
+<div bla="bla">div</div>
+<span bla="bla">span</span>
+<section bla="bla">section</section>
+<p bla="bla">p</p>
+<article bla="bla">article</article>
 
 <section lang="de">
 
