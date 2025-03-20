@@ -1,3 +1,9 @@
+<div aria-hidden="true">div</div>
+<span aria-hidden="true">span</span>
+<section aria-hidden="true">section</section>
+<p aria-hidden="true">p</p>
+<article aria-hidden="true">article</article>
+
 <section lang="de">
 
 <h1><span lang="en"><code>Inclusive UX Consulting</code></span> - Ein Web für Alle!</h1>
