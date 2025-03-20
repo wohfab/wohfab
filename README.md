@@ -1,8 +1,8 @@
-<div aria-label
-     aria-labelledby
-     aria-describedby
-     open
-     disabled>FANCY DIV
+<div aria-label="hi"
+     aria-labelledby="hi"
+     aria-describedby="hi"
+     open="open"
+     disabled="disabled">FANCY DIV
 </div>
 
 <section lang="de">
