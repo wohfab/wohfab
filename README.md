@@ -1,3 +1,5 @@
+<section lang="de">
+
 # `Inclusive UX Consulting` - Ein Web für Alle!
 
 Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und UX Consultant und im Auftrag eines Web für Alle unterwegs.
@@ -112,3 +114,5 @@ Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner I
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
+
+</section>
