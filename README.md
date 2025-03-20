@@ -2,7 +2,7 @@
 
 <h1><span lang="en"><code>Inclusive UX Consulting</code></span> - Ein Web für Alle!</h1>
 
-Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und <span lang="en">UX Consultant</span> und im Auftrag eines Web für Alle unterwegs.
+<span lang="sv">Hej</span>, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und <span lang="en">UX Consultant</span> und im Auftrag eines Web für Alle unterwegs.
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
@@ -14,7 +14,7 @@ Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver 
 <!--<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>-->
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ## `Web für Alle`
@@ -24,7 +24,7 @@ In einem Web für Alle spielt es keine Rolle, wer du bist, wo du bist & was dein
 Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an performanten & nutzungsfreundlichen Digitalauftritten und fokussiere mich neben <span lang="en">Open Source Software</span> und Nachhaltigkeitsaspekten besonders auf Diversitäts- und Barrierefreiheits-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende <span lang="en">User Experience</span> mit Webinhalten zu ermöglichen.
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ## `Über mich`
@@ -32,7 +32,7 @@ Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an performanten & 
 Meine Arbeit ist geprägt von Multidisziplinarität und von starkem Fokus auf ein Web für Alle. Dies spiegelt sich selbstverständlich in meinen Fähigkeiten & auch meinen privaten Interessen wieder.
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ### `Mission`
@@ -42,7 +42,7 @@ Meine Mission ist <span lang="en">information. education. empowerment.</span>
 In meiner <span lang="en">Consulting</span>-Tätigkeit verbreite ich nicht immer nur Informationen. Ich gebe genauso auch Anleitungen und sorge dafür, dass Kund*innen selbstbestimmt und selbstbewusst die Pflege ihrer Digitalauftritte im Griff haben und zum barrierefreien Internet ihren Beitrag leisten können.
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ### `Motto`
@@ -53,7 +53,7 @@ In meiner <span lang="en">Consulting</span>-Tätigkeit verbreite ich nicht immer
 Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "aus Fehlern lernt man", nur dass die Lösung der Fehler inkludiert ist, und dass Lernen explizit auch Wachstum bedeutet.
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ### `Kontakt`
@@ -61,7 +61,7 @@ Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht m
 Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Verfolgen im Sozialen, kann ich Mastodon empfehlen. Und für einen kurzfristigeren, "inoffizielleren" Austausch, bin ich über Matrix erreichbar. Nachfolgend findet sich eine Liste Direktlinks zu diesen Kontaktmöglichkeiten.
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 - <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="E-Mail an Protonmail-Adresse hi@feynmatt.com"></a>  
@@ -69,7 +69,7 @@ Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Ver
 - <a href="https://matrix.to/#/@wohfab:beeper.com"><img src="https://img.shields.io/badge/-@wohfab:beeper.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Matrix&amp;link=https://matrix.to/#/@wohfab:beeper.com" alt="wohfab auf dem Matrix-Server beeper.com"></a>
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ### `Skills`
@@ -84,7 +84,7 @@ Meine Haupttätigkeit ist die Beratung im Bereich <span lang="en">"Inclusive Use
 * <span aria-hidden="true">📸</span> Photographie  
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ### `Themen`
@@ -96,7 +96,7 @@ Nicht nur in meiner Arbeit findet sich das Thema "(Web) für Alle". Auch privat 
 * <span aria-hidden="true">🏳️‍🌈</span> <span lang="en">Allyship für LGBTQ+</span>
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 ### `Interessen`
@@ -112,7 +112,7 @@ Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner I
 * <span aria-hidden="true">⚜️</span> Pfadfinder, <span lang="en">Scouts</span>  
 
 <picture>
-<img src="assets/img/spacer.svg" aria-hidden="true" />
+<img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
 </section>
