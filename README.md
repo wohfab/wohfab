@@ -4,7 +4,7 @@
 
 Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und <span lang="en">UX Consultant</span> und im Auftrag eines Web für Alle unterwegs.
 
-<div aria-hidden="true">
+<section aria-hidden="true">
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
