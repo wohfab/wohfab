@@ -12,6 +12,11 @@
 - <a href="https://feynmatt.com"><img src="https://img.shields.io/badge/-feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Firefox&amp;link=https://feynmatt.com" alt="Meine Website auf feynmatt.com"></a>
 - <a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="Fabian Wohlgemuth auf LinkedIn"></a>
 
+
+- [![E-Mail an Protonmail-Adresse hi@feynmatt.com](https://img.shields.io/badge/hi%40feynmatt.com-EC4899?logo=protonmail&logoColor=041A29)](mailto:hi@feynmatt.com)
+- [![Meine Website auf feynmatt.com](https://img.shields.io/badge/feynmatt.com-EC4899?logo=Firefox&logoColor=041A29)]([#](https://feynmatt.com))
+- [![Fabian Wohlgemuth auf LinkedIn](https://custom-icon-badges.demolab.com/badge/%40fabianwohlgemuth-EC4899?logo=linkedin-white&logoColor=041A29)]([#](https://www.linkedin.com/in/fabianwohlgemuth/))
+
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
