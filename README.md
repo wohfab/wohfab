@@ -71,9 +71,9 @@ Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Ver
 
 - [![E-Mail an Protonmail-Adresse hi@feynmatt.com](https://custom-icon-badges.demolab.com/badge/hi%40feynmatt.com-041A29?logo=protonmail&logoColor=EC4899)](mailto:hi@feynmatt.com)
 - [![Fabian Wohlgemuth auf LinkedIn](https://custom-icon-badges.demolab.com/badge/%40fabianwohlgemuth-041A29?logo=linkedin-white&logoColor=EC4899)](https://www.linkedin.com/in/fabianwohlgemuth/)
-- [![wohfab auf dem Matrix-Server beeper.com](https://custom-icon-badges.demolab.com/badge/%40wohfab%3Abeeper.com-041A29?logo=matrix&logoColor=EC4899)](https://mastodon.social/@wohfab)
+- [![wohfab auf dem Matrix-Server beeper.com](https://custom-icon-badges.demolab.com/badge/%40wohfab%3Abeeper.com-041A29?logo=matrix&logoColor=EC4899)](https://matrix.to/#/@wohfab:beeper.com)
 - [![feynmatt.com auf Bluesky](https://custom-icon-badges.demolab.com/badge/feynmatt.com-041A29?logo=bluesky&logoColor=EC4899)](https://bsky.app/profile/feynmatt.com)
-- [![wohfab auf dem Mastodon-Server mastodon.social](https://custom-icon-badges.demolab.com/badge/%40wohfab%40mastodon.social-041A29?logo=mastodon&logoColor=EC4899)](https://matrix.to/#/@wohfab:beeper.com)
+- [![wohfab auf dem Mastodon-Server mastodon.social](https://custom-icon-badges.demolab.com/badge/%40wohfab%40mastodon.social-041A29?logo=mastodon&logoColor=EC4899)](https://mastodon.social/@wohfab)
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
