@@ -1,8 +1,8 @@
 <section lang="de">
 
-<h1><span lang="en"><code>Inclusive UX Consulting</code></span> - Ein Web für Alle!</h1>
+<h1><span lang="en"><code>Inclusive <abbr title="User Experience">UX</abbr> Consulting</code></span> - Ein Web für Alle!</h1>
 
-<span lang="sv">Hej</span>, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und <span lang="en">UX Consultant</span> und im Auftrag eines Web für Alle unterwegs.
+<span lang="sv">Hej</span>, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und <span lang="en"><abbr>UX</abbr> Consultant</span> und im Auftrag eines Web für Alle unterwegs.
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
@@ -96,9 +96,9 @@ Meine Haupttätigkeit ist die Beratung im Bereich <span lang="en">"Inclusive Use
 
 Nicht nur in meiner Arbeit findet sich das Thema "(Web) für Alle". Auch privat setze ich mich, gemäß meiner Mission <span lang="en">information. education. empowerment.</span> für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
 
-* <span role="image" alt="" aria-hidden="true">♿</span> Inklusion und Barrierefreiheit (Accessibility - a11y)  
+* <span role="image" alt="" aria-hidden="true">♿</span> Inklusion und Barrierefreiheit (Accessibility - <abbr>a11y</abbr>)  
 * <span role="image" alt="" aria-hidden="true">🗺️</span> Diversität (Diversity)  
-* <span role="image" alt="" aria-hidden="true">🏳️‍🌈</span> Allyship für LGBTQ+  
+* <span role="image" alt="" aria-hidden="true">🏳️‍🌈</span> Allyship für <abbr title="lesbian, gay, bisexual, transgender and queer">LGBTQ+</abbr>  
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
