@@ -1,8 +1,8 @@
-<div aria-hidden="true">div</div>
-<span aria-hidden="true">span</span>
-<section aria-hidden="true">section</section>
-<p aria-hidden="true">p</p>
-<article aria-hidden="true">article</article>
+<div faria-hidden="true">div</div>
+<span faria-hidden="true">span</span>
+<section faria-hidden="true">section</section>
+<p faria-hidden="true">p</p>
+<article faria-hidden="true">article</article>
 
 <section lang="de">
 
