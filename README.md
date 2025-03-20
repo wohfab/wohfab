@@ -48,11 +48,11 @@ In meiner <span lang="en">Consulting</span>-Tätigkeit verbreite ich nicht immer
 ### `Motto`
 
 <div>
-  <blockquote lang="en">
+  <blockquote lang="en" cite="https://www.aasthagaur.com/writing/profile-on-invision-blog">
     <p>
       "See problem. Solve problem. Grow."
     </p>
-    <p>—<cite>Aastha Gaur</cite></p>
+    <p>—Aastha Gaur, on her career path, in five words on <cite><a href="https://www.aasthagaur.com/writing/profile-on-invision-blog">her personal blog</a></cite>.</p>
   </blockquote>
 </div>
 
