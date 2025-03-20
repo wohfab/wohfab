@@ -1,10 +1,3 @@
-<div aria-label="hi"
-     aria-labelledby="hi"
-     aria-describedby="hi"
-     open="open"
-     disabled="disabled">FANCY DIV
-</div>
-
 <section lang="de">
 
 <h1><span lang="en"><code>Inclusive UX Consulting</code></span> - Ein Web für Alle!</h1>
@@ -17,8 +10,7 @@
 
 - <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="E-Mail an Protonmail-Adresse hi@feynmatt.com"></a>  
 - <a href="https://feynmatt.com"><img src="https://img.shields.io/badge/-feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Firefox&amp;link=https://feynmatt.com" alt="Meine Website auf feynmatt.com"></a>
-
-<!--<a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="LinkedIn Badge"></a>-->
+- <a href="https://www.linkedin.com/in/fabianwohlgemuth/"><img src="https://img.shields.io/badge/-@fabianwohlgemuth-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/fabianwohlgemuth/" alt="Fabian Wohlgemuth auf LinkedIn"></a>
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
@@ -89,12 +81,12 @@ Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Ver
 
 Meine Haupttätigkeit ist die Beratung im Bereich <span lang="en">"Inclusive User Experience"</span>, was bedeutet, eine rundum inklusive Nutzungserfahrung zu ermöglichen. Dabei beginnt die Arbeit ganz im Sinne des <span lang="en">"shift left"</span> Gedankens bereits bei Struktur und Konzept und geht dann über Design, bis hin zur technischen Umsetzung. Dazu kommt das Testen vorhandener Angebote nach entsprechenden Richtlinien und gesetzlichen Vorgaben. Dieses multidisziplinäre Feld über den gesamten <span lang="en">Lifecycle</span> von digitalen Projekten und Produkten hinweg abzubilden, erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
 
-* <span aria-hidden="true">🎨</span> Design  
-* <span aria-hidden="true">🛠️</span> <span lang="en">Tool Consulting</span>  
-* <span aria-hidden="true">🧑‍💻</span> Webentwicklung  
-* <span aria-hidden="true">🖥️</span> Serveradministration  
-* <span aria-hidden="true">☁️</span> <span lang="en">Self-Hosting</span>  
-* <span aria-hidden="true">📸</span> Photographie  
+* <span role="image" alt="" aria-hidden="true">🎨</span> Design  
+* <span role="image" alt="" aria-hidden="true">🛠️</span> <span lang="en">Tool Consulting</span>  
+* <span role="image" alt="" aria-hidden="true">🧑‍💻</span> Webentwicklung  
+* <span role="image" alt="" aria-hidden="true">🖥️</span> Serveradministration  
+* <span role="image" alt="" aria-hidden="true">☁️</span> <span lang="en">Self-Hosting</span>  
+* <span role="image" alt="" aria-hidden="true">📸</span> Photographie  
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
@@ -104,9 +96,9 @@ Meine Haupttätigkeit ist die Beratung im Bereich <span lang="en">"Inclusive Use
 
 Nicht nur in meiner Arbeit findet sich das Thema "(Web) für Alle". Auch privat setze ich mich, gemäß meiner Mission <span lang="en">information. education. empowerment.</span> für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
 
-* <span aria-hidden="true">♿</span> Inklusion und Barrierefreiheit <span lang="en">(Accessibility - a11y)</span>  
-* <span aria-hidden="true">🗺️</span> Diversität <span lang="en">(Diversity)</span>  
-* <span aria-hidden="true">🏳️‍🌈</span> <span lang="en">Allyship für LGBTQ+</span>
+* <span role="image" alt="" aria-hidden="true">♿</span> Inklusion und Barrierefreiheit <span lang="en">(Accessibility - a11y)</span>  
+* <span role="image" alt="" aria-hidden="true">🗺️</span> Diversität <span lang="en">(Diversity)</span>  
+* <span role="image" alt="" aria-hidden="true">🏳️‍🌈</span> <span lang="en">Allyship für LGBTQ+</span>
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
@@ -116,13 +108,13 @@ Nicht nur in meiner Arbeit findet sich das Thema "(Web) für Alle". Auch privat 
 
 Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner Interessen fließen auch direkt tagtäglich in die Arbeit ein, andere vermitteln und fördern besondere Mindsets, die sich indirekt auf meine Arbeit auswirken. Besonderen Gefallen habe ich an
 
-* <span aria-hidden="true">🎵</span> Musik  
-* <span aria-hidden="true">🎙️</span> Singen (Tenor)  
-* <span aria-hidden="true">🎷</span> Saxophon (ebenfalls Tenor) und vielen weiteren Instrumenten  
-* <span aria-hidden="true">📸</span> Photographie  
-* <span aria-hidden="true">☁️</span> <span lang="en">Self-Hosting</span>  
-* <span aria-hidden="true">🎨</span> Design  
-* <span aria-hidden="true">⚜️</span> Pfadfinder, <span lang="en">Scouts</span>  
+* <span role="image" alt="" aria-hidden="true">🎵</span> Musik  
+* <span role="image" alt="" aria-hidden="true">🎙️</span> Singen (Tenor)  
+* <span role="image" alt="" aria-hidden="true">🎷</span> Saxophon (ebenfalls Tenor) und vielen weiteren Instrumenten  
+* <span role="image" alt="" aria-hidden="true">📸</span> Photographie  
+* <span role="image" alt="" aria-hidden="true">☁️</span> <span lang="en">Self-Hosting</span>  
+* <span role="image" alt="" aria-hidden="true">🎨</span> Design  
+* <span role="image" alt="" aria-hidden="true">⚜️</span> Pfadfinder, <span lang="en">Scouts</span>  
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
