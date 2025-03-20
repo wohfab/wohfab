@@ -62,9 +62,9 @@ Ich bin [am besten per Mail zu erreichen](mailto:hi@feynmatt.com). Für sozialen
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
 
-<a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="Protonmail Badge"></a>  
-<a href="https://mastodon.social/@wohfab"><img src="https://img.shields.io/badge/-@wohfab@mastodon.social-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Mastodon&amp;link=https://mastodon.social/@wohfab" alt="Mastodon Badge"></a>  
-<a href="https://matrix.to/#/@wohfab:beeper.com"><img src="https://img.shields.io/badge/-@wohfab:beeper.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Matrix&amp;link=https://matrix.to/#/@wohfab:beeper.com" alt="Matrix Badge"></a>
+- <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="E-Mail an Protonmail-Adresse hi@feynmatt.com"></a>  
+- <a href="https://mastodon.social/@wohfab"><img src="https://img.shields.io/badge/-@wohfab@mastodon.social-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Mastodon&amp;link=https://mastodon.social/@wohfab" alt="wohfab auf dem Mastodon-Server mastodon.social"></a>  
+- <a href="https://matrix.to/#/@wohfab:beeper.com"><img src="https://img.shields.io/badge/-@wohfab:beeper.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Matrix&amp;link=https://matrix.to/#/@wohfab:beeper.com" alt="wohfab auf dem Matrix-Server beeper.com"></a>
 
 <picture aria-hidden="true">
 <img src="assets/img/spacer.svg" aria-hidden="true" />
