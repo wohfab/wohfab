@@ -47,8 +47,14 @@ In meiner <span lang="en">Consulting</span>-Tätigkeit verbreite ich nicht immer
 
 ### `Motto`
 
-> <span lang="en">"See problem. Solve problem. Grow."</span>  
-> -- Aastha Gaur
+<div>
+  <blockquote lang="en">
+    <p>
+      "See problem. Solve problem. Grow."
+    </p>
+  </blockquote>
+  <p>—<cite>Aastha Gaur</cite></p>
+</div>
 
 Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "aus Fehlern lernt man", nur dass die Lösung der Fehler inkludiert ist, und dass Lernen explizit auch Wachstum bedeutet.
 
