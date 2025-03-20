@@ -8,9 +8,9 @@
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
-- [![E-Mail an Protonmail-Adresse hi@feynmatt.com](https://img.shields.io/badge/hi%40feynmatt.com-EC4899?logo=protonmail&logoColor=041A29)](mailto:hi@feynmatt.com)
-- [![Meine Website auf feynmatt.com](https://img.shields.io/badge/feynmatt.com-EC4899?logo=Firefox&logoColor=041A29)](https://feynmatt.com)
-- [![Fabian Wohlgemuth auf LinkedIn](https://custom-icon-badges.demolab.com/badge/%40fabianwohlgemuth-EC4899?logo=linkedin&logoColor=041A29)](https://www.linkedin.com/in/fabianwohlgemuth/)
+- [![E-Mail an Protonmail-Adresse hi@feynmatt.com](https://custom-icon-badges.demolab.com/hi%40feynmatt.com-041A29?logo=protonmail&logoColor=EC4899)](mailto:hi@feynmatt.com)
+- [![Meine Website auf feynmatt.com](https://custom-icon-badges.demolab.com/feynmatt.com-EC4899?logo=Firefox&logoColor=EC4899)](https://feynmatt.com)
+- [![Fabian Wohlgemuth auf LinkedIn](https://custom-icon-badges.demolab.com/badge/%40fabianwohlgemuth-041A29?logo=linkedin-white&logoColor=EC4899)](https://www.linkedin.com/in/fabianwohlgemuth/)
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
@@ -69,11 +69,11 @@ Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Ver
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
 </picture>
 
-- [![E-Mail an Protonmail-Adresse hi@feynmatt.com](https://custom-icon-badges.demolab.com/badge/hi%40feynmatt.com-EC4899?logo=protonmail&logoColor=041A29)](mailto:hi@feynmatt.com)
-- [![Fabian Wohlgemuth auf LinkedIn](https://custom-icon-badges.demolab.com/badge/%40fabianwohlgemuth-EC4899?logo=linkedin-white&logoColor=041A29)](https://www.linkedin.com/in/fabianwohlgemuth/)
-- [![wohfab auf dem Matrix-Server beeper.com](https://custom-icon-badges.demolab.com/badge/%40wohfab%3Abeeper.com-EC4899?logo=matrix&logoColor=041A29)](https://mastodon.social/@wohfab)
-- [![feynmatt.com auf Bluesky](https://custom-icon-badges.demolab.com/badge/feynmatt.com-EC4899?logo=bluesky&logoColor=041A29)](https://bsky.app/profile/feynmatt.com)
-- [![wohfab auf dem Mastodon-Server mastodon.social](https://custom-icon-badges.demolab.com/badge/%40wohfab%40mastodon.social-EC4899?logo=mastodon&logoColor=041A29)](https://matrix.to/#/@wohfab:beeper.com)
+- [![E-Mail an Protonmail-Adresse hi@feynmatt.com](https://custom-icon-badges.demolab.com/badge/hi%40feynmatt.com-041A29?logo=protonmail&logoColor=EC4899)](mailto:hi@feynmatt.com)
+- [![Fabian Wohlgemuth auf LinkedIn](https://custom-icon-badges.demolab.com/badge/%40fabianwohlgemuth-041A29?logo=linkedin-white&logoColor=EC4899)](https://www.linkedin.com/in/fabianwohlgemuth/)
+- [![wohfab auf dem Matrix-Server beeper.com](https://custom-icon-badges.demolab.com/badge/%40wohfab%3Abeeper.com-041A29?logo=matrix&logoColor=EC4899)](https://mastodon.social/@wohfab)
+- [![feynmatt.com auf Bluesky](https://custom-icon-badges.demolab.com/badge/feynmatt.com-041A29?logo=bluesky&logoColor=EC4899)](https://bsky.app/profile/feynmatt.com)
+- [![wohfab auf dem Mastodon-Server mastodon.social](https://custom-icon-badges.demolab.com/badge/%40wohfab%40mastodon.social-041A29?logo=mastodon&logoColor=EC4899)](https://matrix.to/#/@wohfab:beeper.com)
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" alt="" />
