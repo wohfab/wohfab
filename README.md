@@ -1,8 +1,8 @@
 <section lang="de">
 
-# `Inclusive UX Consulting` - Ein Web für Alle!
+<h1><span lang="en"><code>Inclusive UX Consulting</code></span> - Ein Web für Alle!</h1>
 
-Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und UX Consultant und im Auftrag eines Web für Alle unterwegs.
+Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und <span lang="en">UX Consultant</span> und im Auftrag eines Web für Alle unterwegs.
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
@@ -21,7 +21,7 @@ Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver 
 
 In einem Web für Alle spielt es keine Rolle, wer du bist, wo du bist & was deine Erfahrungen oder Fähigkeiten im Web sind. Ein Digitalauftritt sollte allen Menschen gleichermaßen zugänglich sein.
 
-Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an performanten & nutzungsfreundlichen Digitalauftritten und fokussiere mich neben Open Source Software und Nachhaltigkeitsaspekten besonders auf Diversitäts- und Barrierefreiheits-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende User Experience mit Webinhalten zu ermöglichen.
+Dafür arbeite ich mit Unternehmer*innen & Agenturen weltweit an performanten & nutzungsfreundlichen Digitalauftritten und fokussiere mich neben <span lang="en">Open Source Software</span> und Nachhaltigkeitsaspekten besonders auf Diversitäts- und Barrierefreiheits-Themen, um allen Menschen nicht nur den simplen Zugang zu, sondern auch eine überragende <span lang="en">User Experience</span> mit Webinhalten zu ermöglichen.
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
@@ -37,9 +37,9 @@ Meine Arbeit ist geprägt von Multidisziplinarität und von starkem Fokus auf ei
 
 ### `Mission`
 
-Meine Mission ist information. education. empowerment.
+Meine Mission ist <span lang="en">information. education. empowerment.</span>
 
-In meiner Consulting-Tätigkeit verbreite ich nicht immer nur Informationen. Ich gebe genauso auch Anleitungen und sorge dafür, dass Kund*innen selbstbestimmt und selbstbewusst die Pflege ihrer Digitalauftritte im Griff haben und zum barrierefreien Internet ihren Beitrag leisten können.
+In meiner <span lang="en">Consulting</span>-Tätigkeit verbreite ich nicht immer nur Informationen. Ich gebe genauso auch Anleitungen und sorge dafür, dass Kund*innen selbstbestimmt und selbstbewusst die Pflege ihrer Digitalauftritte im Griff haben und zum barrierefreien Internet ihren Beitrag leisten können.
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
@@ -47,7 +47,7 @@ In meiner Consulting-Tätigkeit verbreite ich nicht immer nur Informationen. Ich
 
 ### `Motto`
 
-> "See problem. Solve problem. Grow."  
+> <span lang="en">"See problem. Solve problem. Grow."</span>  
 > -- Aastha Gaur
 
 Dieses Zitat von Aastha Gaur ist bei mir im Kopf gelandet und ließ mich nicht mehr los. Daraus habe ich mein Motto gemacht. Eine zeitgemäße Adaption des Klassikers "aus Fehlern lernt man", nur dass die Lösung der Fehler inkludiert ist, und dass Lernen explizit auch Wachstum bedeutet.
@@ -74,13 +74,13 @@ Ich bin am besten per Mail zu erreichen. Für sozialen Austausch und stilles Ver
 
 ### `Skills`
 
-Meine Haupttätigkeit ist die Beratung im Bereich "Inclusive User Experience", was bedeutet, eine rundum inklusive Nutzungserfahrung zu ermöglichen. Dabei beginnt die Arbeit ganz im Sinne des "shift left" Gedankens bereits bei Struktur und Konzept und geht dann über Design, bis hin zur technischen Umsetzung. Dazu kommt das Testen vorhandener Angebote nach entsprechenden Richtlinien und gesetzlichen Vorgaben. Dieses multidisziplinäre Feld über den gesamten Lifecycle von digitalen Projekten und Produkten hinweg abzubilden, erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
+Meine Haupttätigkeit ist die Beratung im Bereich <span lang="en">"Inclusive User Experience"</span>, was bedeutet, eine rundum inklusive Nutzungserfahrung zu ermöglichen. Dabei beginnt die Arbeit ganz im Sinne des <span lang="en">"shift left"</span> Gedankens bereits bei Struktur und Konzept und geht dann über Design, bis hin zur technischen Umsetzung. Dazu kommt das Testen vorhandener Angebote nach entsprechenden Richtlinien und gesetzlichen Vorgaben. Dieses multidisziplinäre Feld über den gesamten <span lang="en">Lifecycle</span> von digitalen Projekten und Produkten hinweg abzubilden, erfordert eine ganze Reihe an Fähigkeiten. Hierzu gehören in meiner Toolbox unter anderem
 
 * <span aria-hidden="true">🎨</span> Design  
-* <span aria-hidden="true">🛠️</span> Tool Consulting  
+* <span aria-hidden="true">🛠️</span> <span lang="en">Tool Consulting</span>  
 * <span aria-hidden="true">🧑‍💻</span> Webentwicklung  
 * <span aria-hidden="true">🖥️</span> Serveradministration  
-* <span aria-hidden="true">☁️</span> Self-Hosting  
+* <span aria-hidden="true">☁️</span> <span lang="en">Self-Hosting</span>  
 * <span aria-hidden="true">📸</span> Photographie  
 
 <picture>
@@ -89,11 +89,11 @@ Meine Haupttätigkeit ist die Beratung im Bereich "Inclusive User Experience", w
 
 ### `Themen`
 
-Nicht nur in meiner Arbeit findet sich das Thema "(Web) für Alle". Auch privat setze ich mich, gemäß meiner Mission information. education. empowerment. für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
+Nicht nur in meiner Arbeit findet sich das Thema "(Web) für Alle". Auch privat setze ich mich, gemäß meiner Mission <span lang="en">information. education. empowerment.</span> für Gerechtigkeit und Gleichberechtigung ein. Insbesonders geht es mir hierbei um
 
-* <span aria-hidden="true">♿</span> Inklusion und Barrierefreiheit (Accessibility - a11y)  
-* <span aria-hidden="true">🗺️</span> Diversität (Diversity)  
-* <span aria-hidden="true">🏳️‍🌈</span> Allyship für LGBTQ+
+* <span aria-hidden="true">♿</span> Inklusion und Barrierefreiheit <span lang="en">(Accessibility - a11y)</span>  
+* <span aria-hidden="true">🗺️</span> Diversität <span lang="en">(Diversity)</span>  
+* <span aria-hidden="true">🏳️‍🌈</span> <span lang="en">Allyship für LGBTQ+</span>
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
@@ -107,9 +107,9 @@ Privat (wie auch bei der Arbeit) bin ich viel kreativ unterwegs. Einige meiner I
 * <span aria-hidden="true">🎙️</span> Singen (Tenor)  
 * <span aria-hidden="true">🎷</span> Saxophon (ebenfalls Tenor) und vielen weiteren Instrumenten  
 * <span aria-hidden="true">📸</span> Photographie  
-* <span aria-hidden="true">☁️</span> Self-Hosting  
+* <span aria-hidden="true">☁️</span> <span lang="en">Self-Hosting</span>  
 * <span aria-hidden="true">🎨</span> Design  
-* <span aria-hidden="true">⚜️</span> Pfadfinder, Scouts  
+* <span aria-hidden="true">⚜️</span> Pfadfinder, <span lang="en">Scouts</span>  
 
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
