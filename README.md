@@ -4,9 +4,11 @@
 
 Hej, ich bin Fabian! Ich bin Berater für digitale Barrierefreiheit, inklusiver Designer und <span lang="en">UX Consultant</span> und im Auftrag eines Web für Alle unterwegs.
 
+<div aria-hidden="true">
 <picture>
 <img src="assets/img/spacer.svg" aria-hidden="true" />
 </picture>
+</div>
 
 - <a href="mailto:hi@feynmatt.com"><img src="https://img.shields.io/badge/-hi@feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Protonmail&amp;link=mailto:hi@feynmatt.com" alt="E-Mail an Protonmail-Adresse hi@feynmatt.com"></a>  
 - <a href="https://feynmatt.com"><img src="https://img.shields.io/badge/-feynmatt.com-EC4899?style=flat-square&amp;labelColor=041A29&amp;color=041A29&amp;logo=Firefox&amp;link=https://feynmatt.com" alt="Meine Website auf feynmatt.com"></a>
